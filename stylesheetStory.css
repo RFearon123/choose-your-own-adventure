@@ -1,8 +1,20 @@
 header {
     background-color: #708d06;
+    background-image: url('books-and-lights-hole.jpg');
+      background-size: cover;
+      background-position: center;
+      height: 300px; /* Adjust height as needed */
+      color: rgb(236, 214, 194);
+      display: flex;
+      align-items:center;
+      justify-content:center;
+      font-size: 1.5rem;
+      font-family: Georgia, 'Times New Roman', Times, serif;
   
 }
-
+header h1 {
+    text-align:center;
+  }
 
 body {
     margin-left: auto;
@@ -44,3 +56,4 @@ body {
   footer {
     background-color: rgb(20, 175, 80);
 }
+
