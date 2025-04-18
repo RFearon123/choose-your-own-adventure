@@ -1,11 +1,19 @@
+header {
+    background-color: #708d06;
+  
+}
+
+
 body {
-    margin: 0;
+    margin-left: auto;
+    margin-right: auto;
     font-family: sans-serif;
+    max-width: 90%;
   }
 
   .layout {
     display: flex;
-    min-height: 100vh;
+    min-height: 90vh;
   }
 
   aside {
@@ -15,15 +23,19 @@ body {
   }
 
   .left-aside {
-    background-color: #d0e6f7;
+    background-color: #d27307;
   }
 
   .right-aside {
-    background-color: #f7d0e6;
+    background-color: #8d0652;
   }
 
   main {
     flex: 1;
     padding: 1rem;
-    background-color: #ffffff;
+    background-color: #8d0808;
   }
+
+  footer {
+    background-color: rgb(20, 175, 80);
+}
