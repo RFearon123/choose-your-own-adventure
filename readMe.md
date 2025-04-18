@@ -37,5 +37,5 @@ Do you…
 
 
 
-one aside = nav bar: fantasy, horror, romance, crime, adventure, historical, sci-fi, comedy 
-other one =  home (welcome), about, logon, help/info, forums/ community
+left aside = nav bar: fantasy, horror, romance, crime, adventure, historical, sci-fi, comedy 
+ride aside =  home (welcome), about, logon, help/info, forums/ community
