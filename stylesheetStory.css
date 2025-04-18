@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+  }
+
+  .layout {
+    display: flex;
+    min-height: 100vh;
+  }
+
+  aside {
+    width: 200px;
+    padding: 1rem;
+    background-color: #f4f4f4;
+  }
+
+  .left-aside {
+    background-color: #d0e6f7;
+  }
+
+  .right-aside {
+    background-color: #f7d0e6;
+  }
+
+  main {
+    flex: 1;
+    padding: 1rem;
+    background-color: #ffffff;
+  }
