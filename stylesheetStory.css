@@ -22,6 +22,11 @@ body {
     background-color: #f4f4f4;
   }
 
+  li {
+    margin-bottom: 20%;
+    list-style-type: none;
+  }
+
   .left-aside {
     background-color: #d27307;
   }
