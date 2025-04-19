@@ -58,8 +58,8 @@ body {
 }
 
 /*
-gallery for adventure page
-*/
+//gallery for adventure page
+
 
 .gallery {
     display: grid;
@@ -83,3 +83,4 @@ gallery for adventure page
   .gallery img:hover {
     transform: scale(1.05);
   }
+  */
