@@ -1,5 +1,5 @@
 header {
-    background-color: #708d06;
+   
     background-image: url('books-and-lights-hole.jpg');
       background-size: cover;
       background-position: center;
@@ -10,6 +10,8 @@ header {
       justify-content:center;
       font-size: 1.5rem;
       font-family: Georgia, 'Times New Roman', Times, serif;
+      border-radius: 50%;
+    
   
 }
 header h1 {
@@ -31,30 +33,44 @@ body {
   aside {
     width: 200px;
     padding: 1rem;
-    background-color: #f4f4f4;
+    
   }
 
   li {
     margin-bottom: 20%;
     list-style-type: none;
+    text-align: justify;
   }
 
-  .nav-container-left {
-    background-color: #d27307;
-  }
+ 
 
   .right-aside {
-    background-color: #8d0652;
+    background-color: #e49c54;
+    border-radius: 20%;
+    margin-top: -3%;
   }
+
+  .left-aside {
+    background-color: #e49c54;
+    border-radius: 30%;
+    margin-top: -3%;
+  }
+  
+ 
 
   main {
     flex: 1;
     padding: 1rem;
-    background-color: #cec2df;
+    background-color:#f09c37;
+    border-radius: 10%;
+    margin-top: 0.5%;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
   }
 
   footer {
-    background-color: rgb(20, 175, 80);
+    background-color:#e8976f;
+    margin-top: 1%;
 }
 
 /* gallery for adventure page  */
